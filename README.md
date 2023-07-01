@@ -1,4 +1,4 @@
-# Project I: Build and deploy NextJS App to AWS Codepipeline
+# Project I: Database Change Management with Snowflake and GitHub
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
